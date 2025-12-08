@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="86.48.22.228.BikeStoresDW.sa"
+  DTS:DTSID="{8CC03715-4503-4DC8-A01D-1E15F9B64237}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=86.48.22.228;User ID=sa;Initial Catalog=BikeStoresDW;Provider=MSOLEDBSQL.1;Persist Security Info=True;Application Name=SSIS-Proyecto3BasesII-{8CC03715-4503-4DC8-A01D-1E15F9B64237}86.48.22.228.BikeStoresDW.sa;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAqWoU5J3LMU2vlTZlu5WeSAAAAAACAAAAAAAQZgAAAAEAACAAAAAlAKr3xySJVt3uRwsasUNvgCcTPqcu9GJPL7QZYSEzKgAAAAAOgAAAAAIAACAAAABxATIcus7Z9IiiK4ZlYqJ0GKvPC8POu088zBEt3t0XhIAAAACAUDhi2hJi/TKo4IxQMmNvfaU1bRru6JBwrzwFFLSFfdGUPIBin7qbhkVBh2XtY9SyV9RhBSSLWN7hCrhM8f6IfLLqAWJBYCYJ3sUiTrJznUat1p4mRpTF74otuXPbjW8RFftnOs3AwFvDYbOZqRtnoD3CYVLWqbSIfoEGpGZSyEAAAABUeQ8YA+cSJsFdKIrYlyzkA6dzg//ROC+qmX4VFATImgnh836oiu/UGrhkN/R9eHL2MCcRBk8l/iEgd9UOMy0X</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
